@@ -1,5 +1,5 @@
 ### Hi there, I'm Farukcan
-I am improving myself on deep learning and data science. 
+I'm a M.Sc. Student at Istanbul Technical University. Currently, I am improving myself on data science and deep learning.
 
 LinkedIn: [link](https://www.linkedin.com/in/farukcansaglam/)
 
